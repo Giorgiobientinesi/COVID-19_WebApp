@@ -16,8 +16,8 @@ model = tf.keras.models.load_model('CNN-CT')
 
 
 st.write("""
-# COVID-19 identification app
-This app analyzes a **CT image of a lung ** and identifies the presence of **COVID-19**!
+# COVID-19 identification App
+This App analyzes a **chest CT-image** and identifies the presence of **COVID-19**!
 """)
 
 #SIDEBAR OF THE WEB APP. THIS TAKES THE INPUT OF THE USER(ETF AND WEIGHTS)
