@@ -1,0 +1,6 @@
+tensorflow == 2.5.0
+numpy == 1.19.5
+scikit-image == 0.18.1
+streamlit == 0.82.0
+times == 0.7
+Pillow == 8.2.0
